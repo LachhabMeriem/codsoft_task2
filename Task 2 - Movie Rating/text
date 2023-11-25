@@ -1,0 +1,3 @@
+df.isnull().count() ===>  count les nombres des lignes soit null soit not null
+.sort_values() 
+df.nlargest(10, 'Rating') ==> les 10 grands valeurs dans colonnes rating
